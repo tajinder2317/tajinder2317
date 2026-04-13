@@ -72,11 +72,8 @@ See all repos: https://github.com/tajinder2317?tab=repositories
   </a>
 </p>
 
-## GitHub Stats (4-Quadrant)
-| | |
-| --- | --- |
-| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tajinder2317&theme=github_dark) | ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tajinder2317&theme=github_dark) |
-| ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tajinder2317&theme=github_dark) | ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tajinder2317&theme=github_dark&utcOffset=5.5) |
+## Contributions
+![GitHub Contributions](https://ghchart.rshah.org/39d353/tajinder2317)
 
 ## Strengths
 - Strong focus on building real-world useful products
