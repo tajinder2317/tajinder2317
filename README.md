@@ -54,16 +54,8 @@ Currently focused on becoming a blockchain developer while exploring AI-driven p
 ![REST API](https://img.shields.io/badge/REST%20APIs-111?style=flat-square&logo=swagger&logoColor=85EA2D)
 
 ## Featured Projects
-If you don’t see a direct repo link here, it’s probably pinned on my profile or available in my repositories.
-
-- **AI Complaint Analyzer** — analyzes and categorizes complaints using ML  
-  Search: https://github.com/search?q=user%3Atajinder2317+complaint+analyzer&type=repositories
-- **Weather Forecast App** — real-time weather data with a clean UI  
-  Search: https://github.com/search?q=user%3Atajinder2317+weather+app&type=repositories
-- **Hand Gesture Mouse** — control system using MediaPipe + Python  
-  Search: https://github.com/search?q=user%3Atajinder2317+hand+gesture+mouse&type=repositories
-- **Mobile Apps (React Native)** — multiple apps available on GitHub  
-  Search: https://github.com/search?q=user%3Atajinder2317+react+native&type=repositories
+- **College Project** — main college work and experiments  
+  Repo: https://github.com/tajinder2317/collegeProject
 
 See all repos: https://github.com/tajinder2317?tab=repositories
 
