@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:tajindersingh.dhillon.btechcse@ghrua.edu.in">
-    <img alt="Email" src="https://img.shields.io/badge/Email-tajindersingh.dhillon.btechcse%40ghrua.edu.in-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:soorma2317@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-soorma2317%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/tajinder2317">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-tajinder2317-111?style=for-the-badge&logo=github&logoColor=white" />
@@ -93,7 +93,7 @@ See all repos: https://github.com/tajinder2317?tab=repositories
 - Open to freelance + full-time roles (including global opportunities)
 
 ## Contact
-- Email: tajindersingh.dhillon.btechcse@ghrua.edu.in
+- Email: soorma2317@gmail.com
 - Phone: +91 8657723336
 - GitHub: https://github.com/tajinder2317
 
