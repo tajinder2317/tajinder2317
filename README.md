@@ -72,8 +72,7 @@ See all repos: https://github.com/tajinder2317?tab=repositories
   </a>
 </p>
 
-## Contributions
-![GitHub Contributions](https://ghchart.rshah.org/39d353/tajinder2317)
+
 
 ## Strengths
 - Strong focus on building real-world useful products
