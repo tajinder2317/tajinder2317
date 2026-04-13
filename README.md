@@ -59,18 +59,17 @@ Currently focused on becoming a blockchain developer while exploring AI-driven p
 
 See all repos: https://github.com/tajinder2317?tab=repositories
 
-## GitHub Stats
+## GitHub
 <p align="center">
-  <img
-    height="165"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=tajinder2317&amp;show_icons=true&amp;theme=tokyonight"
-  />
-  <img
-    height="165"
-    alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajinder2317&amp;layout=compact&amp;theme=tokyonight"
-  />
+  <a href="https://github.com/tajinder2317">
+    <img alt="Profile" src="https://img.shields.io/badge/Profile-tajinder2317-111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/tajinder2317?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/tajinder2317?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/tajinder2317/collegeProject">
+    <img alt="College Project Stars" src="https://img.shields.io/github/stars/tajinder2317/collegeProject?label=College%20Project%20Stars&style=for-the-badge" />
+  </a>
 </p>
 
 ## Strengths
