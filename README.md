@@ -75,6 +75,16 @@ See all repos: https://github.com/tajinder2317?tab=repositories
 ## Contributions
 ![GitHub Contributions](https://ghchart.rshah.org/39d353/tajinder2317)
 
+### Activity Overview (Radar Chart)
+The radar "Activity overview" chart (Commits / PRs / Issues / Code review) is a GitHub profile widget and can’t be embedded reliably inside a README.
+
+Enable it on your profile:
+1. Go to your GitHub profile page
+2. Open **Contribution settings**
+3. Turn on **Activity overview**
+
+Help: https://docs.github.com/en/account-and-profile/how-tos/contribution-settings/showing-an-overview-of-your-activity-on-your-profile
+
 ## Strengths
 - Strong focus on building real-world useful products
 - Full-stack developer with AI integration experience
