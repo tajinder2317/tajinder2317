@@ -64,12 +64,12 @@ See all repos: https://github.com/tajinder2317?tab=repositories
   <img
     height="165"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=tajinder2317&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=tajinder2317&amp;show_icons=true&amp;theme=tokyonight"
   />
   <img
     height="165"
     alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajinder2317&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajinder2317&amp;layout=compact&amp;theme=tokyonight"
   />
 </p>
 
