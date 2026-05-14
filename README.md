@@ -77,9 +77,36 @@ See all repos: https://github.com/tajinder2317?tab=repositories
 ## Trending
 Current streak + recent contribution activity.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tajinder2317&theme=transparent)
+<p align="center">
+  <img
+    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=tajinder2317&theme=transparent&hide_border=true"
+  />
+</p>
 
-![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tajinder2317&hide_border=true&bg_color=00000000)
+<p align="center">
+  <img
+    alt="Contribution Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tajinder2317&hide_border=true&bg_color=00000000"
+  />
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/tajinder2317/tajinder2317/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/tajinder2317/tajinder2317/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/tajinder2317/tajinder2317/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
 
 ## Strengths
 - Strong focus on building real-world useful products
