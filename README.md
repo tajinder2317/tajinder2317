@@ -98,8 +98,8 @@ Current streak + recent contribution activity.
       srcset="https://raw.githubusercontent.com/tajinder2317/tajinder2317/main/assets/github-contribution-grid-snake-dark.svg"
     />
     <img
-      alt="GitHub contribution snake (GIF)"
-      src="https://raw.githubusercontent.com/tajinder2317/tajinder2317/main/assets/github-contribution-grid-snake.gif"
+      alt="GitHub contribution snake (Ocean GIF)"
+      src="https://raw.githubusercontent.com/tajinder2317/tajinder2317/main/assets/github-contribution-snake-ocean.gif"
     />
   </picture>
 </p>

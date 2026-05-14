@@ -26,6 +26,7 @@ jobs:
             assets/github-contribution-grid-snake.svg
             assets/github-contribution-grid-snake-dark.svg?palette=github-dark
             assets/github-contribution-grid-snake.gif?palette=github-dark
+            assets/github-contribution-snake-ocean.gif?color_snake=#00E5FF&color_dots=#0d1117,#0b2a3b,#0a3f5c,#086e8f,#00E5FF
 
       - name: Commit & Push
         run: |
