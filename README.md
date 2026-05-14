@@ -92,10 +92,16 @@ Current streak + recent contribution activity.
 </p>
 
 <p align="center">
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/tajinder2317/tajinder2317/main/assets/github-contribution-grid-snake.svg"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/tajinder2317/tajinder2317/main/assets/github-contribution-grid-snake-dark.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/tajinder2317/tajinder2317/main/assets/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 <p align="center">
