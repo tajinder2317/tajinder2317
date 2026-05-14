@@ -95,21 +95,21 @@ Current streak + recent contribution activity.
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/tajinder2317/tajinder2317/output/github-contribution-grid-snake-dark.svg"
+      srcset="./assets/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/tajinder2317/tajinder2317/output/github-contribution-grid-snake.svg"
+      srcset="./assets/github-contribution-grid-snake.svg"
     />
     <img
       alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/tajinder2317/tajinder2317/output/github-contribution-grid-snake.svg"
+      src="./assets/github-contribution-grid-snake.svg"
     />
   </picture>
 </p>
 
 <p align="center">
-  <sub>If the snake isn’t visible yet, run the “Generate contribution snake” workflow once to create the <code>output</code> branch.</sub>
+  <sub>If the snake isn’t visible yet, run the “Generate contribution snake” workflow once to generate <code>assets/</code>.</sub>
 </p>
 
 <p align="center">
