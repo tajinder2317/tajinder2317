@@ -105,10 +105,6 @@ Current streak + recent contribution activity.
 </p>
 
 <p align="center">
-  <sub>If the snake isn’t visible yet, run the “Generate contribution snake” workflow once to generate <code>assets/</code>.</sub>
-</p>
-
-<p align="center">
   <img
     alt="3D GitHub Contribution Heatmap"
     src="./profile-3d-contrib/profile-night-rainbow.svg"
