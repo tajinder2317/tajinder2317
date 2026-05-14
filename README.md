@@ -95,11 +95,11 @@ Current streak + recent contribution activity.
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/tajinder2317/tajinder2317/main/assets/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/tajinder2317/tajinder2317/main/assets/smooth-snake-dark.gif"
     />
     <img
-      alt="GitHub contribution snake (Ocean GIF)"
-      src="https://raw.githubusercontent.com/tajinder2317/tajinder2317/main/assets/github-contribution-snake-ocean.gif"
+      alt="Smooth contribution snake (GIF)"
+      src="https://raw.githubusercontent.com/tajinder2317/tajinder2317/main/assets/smooth-snake.gif"
     />
   </picture>
 </p>
