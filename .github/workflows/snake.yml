@@ -17,7 +17,7 @@ jobs:
           fetch-depth: 0
 
       - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -25,6 +25,7 @@ jobs:
           outputs: |
             assets/github-contribution-grid-snake.svg
             assets/github-contribution-grid-snake-dark.svg?palette=github-dark
+            assets/github-contribution-grid-snake.gif?palette=github-dark
 
       - name: Commit & Push
         run: |
