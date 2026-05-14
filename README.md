@@ -74,6 +74,13 @@ See all repos: https://github.com/tajinder2317?tab=repositories
 
 
 
+## Trending
+Current streak + recent contribution activity.
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tajinder2317&theme=transparent)
+
+![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tajinder2317&hide_border=true&bg_color=00000000)
+
 ## Strengths
 - Strong focus on building real-world useful products
 - Full-stack developer with AI integration experience
