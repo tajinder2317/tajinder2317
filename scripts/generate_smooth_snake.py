@@ -177,35 +177,35 @@ def render_gif(
             idx += 1
         grid.append(col)
 
-    # Choose snake waypoints (non-zero days). Fallback to all days if too sparse.
-    active = [d for d in all_days if d.count > 0]
-    base = active if len(active) >= 24 else all_days
-
+    # Build a long serpentine path across the whole grid so the snake is
+    # always "long", even if contributions are sparse.
     points: List[Tuple[float, float]] = []
-    for i, d in enumerate(base):
-        col = i // rows
-        row = i % rows
-        x = pad_x + col * (cell + gap) + cell / 2
-        y = pad_y + row * (cell + gap) + cell / 2
-        points.append((x, y))
+    for col in range(weeks):
+        for r in range(rows):
+            row = r if (col % 2 == 0) else (rows - 1 - r)
+            x = pad_x + col * (cell + gap) + cell / 2
+            y = pad_y + row * (cell + gap) + cell / 2
+            points.append((x, y))
 
     # Pad endpoints for Catmull-Rom
     padded = [points[0]] + points + [points[-1]]
-    path = catmull_rom_spline(padded, samples_per_seg=6)
+    path = catmull_rom_spline(padded, samples_per_seg=10)
     if len(path) < 10:
         path = points
 
     frames: List[Image.Image] = []
-    num_frames = 90
-    snake_len = max(120, int(len(path) * 0.25))
+    num_frames = int(os.environ.get("SMOOTH_SNAKE_FRAMES", "180"))
+    snake_len = int(os.environ.get("SMOOTH_SNAKE_LEN", str(max(240, int(len(path) * 0.55)))))
 
     bg = (13, 17, 23, 255) if theme == "dark" else (255, 255, 255, 255)
     snake_color = (0, 229, 255, 230) if theme == "dark" else (0, 122, 255, 220)
     glow = (0, 229, 255, 70) if theme == "dark" else (0, 122, 255, 60)
 
     for f in range(num_frames):
+        # Ease in/out for smoother looping feel.
         t = f / float(num_frames - 1)
-        head = int(lerp(0, len(path) - 1, t))
+        t_ease = 0.5 - 0.5 * math.cos(math.pi * t)
+        head = int(lerp(0, len(path) - 1, t_ease))
         tail = max(0, head - snake_len)
 
         img = Image.new("RGBA", (width * scale, height * scale), bg)
@@ -285,4 +285,3 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"error: {e}", file=sys.stderr)
         raise
-
