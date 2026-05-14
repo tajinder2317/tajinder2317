@@ -112,6 +112,14 @@ Current streak + recent contribution activity.
   <sub>If the snake isn’t visible yet, run the “Generate contribution snake” workflow once to create the <code>output</code> branch.</sub>
 </p>
 
+<p align="center">
+  <img
+    alt="3D GitHub Contribution Heatmap"
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    width="700"
+  />
+</p>
+
 ## Strengths
 - Strong focus on building real-world useful products
 - Full-stack developer with AI integration experience
