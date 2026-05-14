@@ -108,6 +108,10 @@ Current streak + recent contribution activity.
   </picture>
 </p>
 
+<p align="center">
+  <sub>If the snake isn’t visible yet, run the “Generate contribution snake” workflow once to create the <code>output</code> branch.</sub>
+</p>
+
 ## Strengths
 - Strong focus on building real-world useful products
 - Full-stack developer with AI integration experience
