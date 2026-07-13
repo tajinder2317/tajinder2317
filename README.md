@@ -87,7 +87,7 @@ See all repos: https://github.com/tajinder2317?tab=repositories
 
 ## Contact
 - Email: soorma2317@gmail.com
-- Phone: +91 8657723336
+- Phone: +91-8657723336
 - GitHub: https://github.com/tajinder2317
 
 ---
