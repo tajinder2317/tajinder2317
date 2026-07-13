@@ -74,6 +74,44 @@ See all repos: https://github.com/tajinder2317?tab=repositories
 
 
 
+## Trending
+Current streak + recent contribution activity.
+
+<p align="center">
+  <img
+    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=tajinder2317&theme=transparent&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    alt="Contribution Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tajinder2317&hide_border=true&bg_color=00000000"
+  />
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/tajinder2317/tajinder2317/main/assets/github-contribution-grid-snake-dark.svg"
+    />
+    <img
+      alt="GitHub contribution snake (Ocean GIF)"
+      src="https://raw.githubusercontent.com/tajinder2317/tajinder2317/main/assets/github-contribution-snake-ocean.gif"
+    />
+  </picture>
+</p>
+
+<p align="center">
+  <img
+    alt="3D GitHub Contribution Heatmap"
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    width="700"
+  />
+</p>
+
 ## Strengths
 - Strong focus on building real-world useful products
 - Full-stack developer with AI integration experience
